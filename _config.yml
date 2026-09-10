@@ -1,0 +1,9 @@
+logo: /logo/MetaOrigami.png
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  syntax_highlighter: rouge

@@ -1,23 +1,16 @@
 <div align="center">
 
-# MetaOrigami
+## MetaOrigami
 
 ### Origami-Inspired Metamaterials, Parametric CAD and Digital Fabrication
 
-**Miura-ori · Kresling · Geometric Programmability · Reconfigurable Structures**
-
 <p align="center">
-  <img src="EstudoCelulas/Miuri-Ori_plan_angulos%20diferentes.jpg" width="82%" alt="MetaOrigami — Miura-ori geometric study">
+  <img src="logo/MetaOrigamiCover.png" width="82%" alt="MetaOrigami">
 </p>
-
-**Undergraduate research project by Ana Beatriz Alencar Dias  
-under the supervision of Americo Barbosa da Cunha Junior**
-
-</div>
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 - [Overview](#overview)
 - [Research Approach](#research-approach)
@@ -36,7 +29,7 @@ under the supervision of Americo Barbosa da Cunha Junior**
 
 ---
 
-## Overview
+### Overview
 
 **MetaOrigami** is an undergraduate research project focused on the geometric
 design and digital prototyping of origami-inspired meta-structures.
@@ -63,7 +56,7 @@ geometry with a more strongly coupled parametrization.
 
 ---
 
-## Research Approach
+### Research Approach
 
 The basic workflow adopted in the project is:
 
@@ -94,9 +87,9 @@ meta-structures.
 
 ---
 
-# Miura-ori
+### Miura-ori
 
-## Geometry
+#### Geometry
 
 The **Miura-ori** is a periodic origami pattern constructed from a tessellation
 of parallelogram-like facets connected through alternating mountain and valley
@@ -117,7 +110,7 @@ produce organized transformations of the entire tessellation.
 
 ---
 
-## Geometric Study
+### Geometric Study
 
 <p align="center">
   <img src="EstudoCelulas/Miuri-Ori_plan_angulos%20diferentes.jpg" width="88%" alt="Miura-ori cells and angular configurations">
@@ -146,7 +139,7 @@ Illustrator formats.
 
 ---
 
-# Miura-ori CAD Model
+### Miura-ori CAD Model
 
 A **7 × 4 Miura-ori tessellation** was developed in Autodesk Fusion 360.
 
@@ -162,7 +155,7 @@ The model is available in three formats.
 | [MiuriOri_7x4_3D_v6.stl](FusionGeometries/Modelo_3D/MiuriOri/MiuriOri_7x4_3D_v6.stl) | STL | Triangulated 3D geometry |
 | [MiuriOri_7x4.obj](FusionGeometries/Modelo_3D/MiuriOri/MiuriOri_7x4.obj) | OBJ | General-purpose 3D geometry |
 
-### Download
+#### Download
 
 **Fusion 360**
 
@@ -178,7 +171,7 @@ The model is available in three formats.
 
 ---
 
-# Miura-ori Crease Pattern
+### Miura-ori Crease Pattern
 
 The planar crease pattern associated with the Miura-ori 7 × 4 model is
 available as both a vector CAD file and a PDF document.
@@ -191,7 +184,7 @@ folded architecture is constructed.
 | [MiuraOri_7x4.dxf](FusionGeometries/Modelo_dxf_dwg/CreasePattern/MiuraOri/MiuraOri_7x4.dxf) | DXF | Vector crease geometry |
 | [MiuraOri_7x4.pdf](FusionGeometries/Modelo_dxf_dwg/CreasePattern/MiuraOri/MiuraOri_7x4.pdf) | PDF | Crease-pattern document |
 
-### Download
+#### Download
 
 [Download the DXF crease pattern](FusionGeometries/Modelo_dxf_dwg/CreasePattern/MiuraOri/MiuraOri_7x4.dxf)
 
@@ -199,7 +192,7 @@ folded architecture is constructed.
 
 ---
 
-# Kresling
+### Kresling
 
 The **Kresling pattern** is a cylindrical origami architecture composed
 primarily of triangular facets arranged around a polygonal cross section.
@@ -222,7 +215,7 @@ of:
 
 ---
 
-## Kresling Geometric Challenge
+### Kresling Geometric Challenge
 
 Kresling was investigated as a second origami architecture during the project.
 
@@ -230,7 +223,6 @@ Its CAD parametrization proved more demanding than the corresponding Miura-ori
 model.
 
 For a closed cylindrical structure, parameters such as:
-
 - number of polygon sides;
 - polygon radius;
 - cylinder height;
@@ -248,7 +240,7 @@ Kresling geometry and its crease patterns**.
 
 ---
 
-## Kresling Files
+### Kresling Files
 
 The current repository contains the following Kresling working files:
 
@@ -264,7 +256,7 @@ of the research.
 
 ---
 
-# Miura Alphabet
+### Miura Alphabet
 
 One of the main geometric experiments developed from the Miura-ori study was
 the construction of a **complete alphabet using Miura-inspired modular
@@ -298,9 +290,9 @@ Miura-Ori-Alphabet.f3d
 
 ---
 
-# Available Files
+### Available Files
 
-## Miura-ori geometric study
+#### Miura-ori geometric study
 
 | Filename | Type |
 |---|---|
@@ -308,7 +300,7 @@ Miura-Ori-Alphabet.f3d
 | `Miuri-Ori_plan_angulos diferentes.jpg` | JPG |
 | `Miuri-Ori_plan_angulos_diferentes.ai` | Adobe Illustrator |
 
-## Miura-ori 3D model
+#### Miura-ori 3D model
 
 | Filename | Type |
 |---|---|
@@ -316,14 +308,14 @@ Miura-Ori-Alphabet.f3d
 | `MiuriOri_7x4_3D_v6.stl` | STL |
 | `MiuriOri_7x4.obj` | OBJ |
 
-## Miura-ori crease pattern
+#### Miura-ori crease pattern
 
 | Filename | Type |
 |---|---|
 | `MiuraOri_7x4.dxf` | DXF |
 | `MiuraOri_7x4.pdf` | PDF |
 
-## Kresling
+#### Kresling
 
 | Filename | Type |
 |---|---|
@@ -332,7 +324,7 @@ Miura-Ori-Alphabet.f3d
 | `KreslingArrayCreasePattern1.dxf` | DXF |
 | `KreslingArrayCreasePattern1.studio3` | Studio 3 |
 
-## Miura Alphabet
+#### Miura Alphabet
 
 | Filename | Type |
 |---|---|
@@ -340,7 +332,7 @@ Miura-Ori-Alphabet.f3d
 
 ---
 
-# Digital Fabrication
+### Digital Fabrication
 
 The geometric and CAD studies were complemented by physical prototyping.
 
@@ -369,7 +361,7 @@ fabricability prototypes**.
 
 ---
 
-# Origami-Inspired Metamaterials
+### Origami-Inspired Metamaterials
 
 Origami provides a useful design language for mechanical metamaterials because
 the global behavior of a structure can be strongly influenced by the geometry
@@ -420,7 +412,7 @@ different classes of reconfigurable structures.
 
 ---
 
-# Repository Structure
+### Repository Structure
 
 ```text
 MetaOrigami/
@@ -461,15 +453,15 @@ MetaOrigami/
 
 ---
 
-# Authors
+### Authors
 
-### Ana Beatriz Alencar Dias
+**Ana Beatriz Alencar Dias**
 
 Undergraduate Researcher  
 Industrial Design  
 **Universidade Federal do Rio de Janeiro — UFRJ**
 
-### Americo Cunha Jr
+**Americo Cunha Jr**
 
 Research Advisor  
 **Laboratório Nacional de Computação Científica — LNCC**  
@@ -477,7 +469,7 @@ Research Advisor
 
 ---
 
-# Institutional Context
+### Institutional Context
 
 The project was developed as undergraduate research connecting:
 
@@ -493,7 +485,7 @@ with undergraduate research support associated with **FAPERJ**.
 
 ---
 
-# Citation
+### Citation
 
 If you use material from this repository in academic work, please cite the
 project as:
@@ -515,7 +507,7 @@ BibTeX:
 
 ---
 
-# Contact
+### Contact
 
 For questions about the project or research collaboration:
 
