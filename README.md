@@ -1,8 +1,6 @@
+## MetaOrigami: Origami-Inspired Metamaterials, Parametric CAD and Digital Fabrication
+
 <div align="center">
-
-## MetaOrigami
-
-### Origami-Inspired Metamaterials, Parametric CAD and Digital Fabrication
 
 <p align="center">
   <img src="logo/MetaOrigamiCover.png" width="82%" alt="MetaOrigami">
