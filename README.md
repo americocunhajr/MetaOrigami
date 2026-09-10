@@ -4,14 +4,9 @@
 
 ### Origami-Inspired Metamaterials, Parametric CAD and Digital Fabrication
 
-**Miura-ori · Kresling · Geometric Programmability · Reconfigurable Structures**
-
 <p align="center">
   <img src="EstudoCelulas/Miuri-Ori_plan_angulos%20diferentes.jpg" width="82%" alt="MetaOrigami — Miura-ori geometric study">
 </p>
-
-**Undergraduate research project by Ana Beatriz Alencar Dias  
-under the supervision of Americo Barbosa da Cunha Junior**
 
 </div>
 
