@@ -523,15 +523,3 @@ For questions about the project or research collaboration:
 
 Laboratório Nacional de Computação Científica — LNCC
 
----
-
-<div align="center">
-
-### MetaOrigami
-
-**Geometry · Origami · CAD · Meta-Structures · Digital Fabrication**
-
-2026
-
-</div>
-
