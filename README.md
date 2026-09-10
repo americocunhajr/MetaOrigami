@@ -461,23 +461,6 @@ MetaOrigami/
 
 ---
 
-# Research Status
-
-| Topic | Status |
-|---|---|
-| Miura-ori geometric study | Completed |
-| Miura-ori cell and tessellation | Developed |
-| Miura-ori parametric CAD | Developed |
-| Miura-ori 7 × 4 3D model | Available |
-| Miura-ori DXF crease pattern | Available |
-| Miura-ori physical prototypes | Produced |
-| Miura geometric alphabet | Developed |
-| Kresling geometric study | Exploratory |
-| Kresling crease-pattern studies | Available |
-| Kresling parametric closure | Under investigation |
-
----
-
 # Authors
 
 ### Ana Beatriz Alencar Dias
