@@ -8,6 +8,8 @@
   <img src="logo/MetaOrigamiCover.png" width="82%" alt="MetaOrigami">
 </p>
 
+</div>
+
 ---
 
 ### Table of Contents
