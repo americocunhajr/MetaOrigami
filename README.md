@@ -27,7 +27,6 @@
 - [Funding](#funding)
 - [License](#license)
 - [Citation](#citation)
-- [Contact](#contact)
 
 ---
 
@@ -457,17 +456,8 @@ MetaOrigami/
 
 ### Authors
 
-**Ana Beatriz Alencar Dias**
-
-Undergraduate Researcher  
-Industrial Design  
-**Universidade Federal do Rio de Janeiro — UFRJ**
-
-**Americo Cunha Jr**
-
-Research Advisor  
-**Laboratório Nacional de Computação Científica — LNCC**  
-**Universidade do Estado do Rio de Janeiro — UERJ**
+- Ana Beatriz Alencar Dias (UFRJ)
+- Americo Cunha Jr  (LNCC & UERJ)
 
 ---
 
@@ -516,14 +506,4 @@ BibTeX:
     howpublished = {GitHub repository}
 }
 ```
-
----
-
-### Contact
-
-For questions about the project or research collaboration:
-
-**Americo Cunha Jr**
-
-Laboratório Nacional de Computação Científica — LNCC
 
