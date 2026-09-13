@@ -473,7 +473,7 @@ Research Advisor
 
 ### Institutional support
 
-<img src="logo/logo_ufrj.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="10%"> 
+<img src="logo/logo_ufrj.png" width="08%"> &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="10%"> 
 
 ---
 
