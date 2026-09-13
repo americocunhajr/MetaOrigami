@@ -23,7 +23,9 @@
 - [Digital Fabrication](#digital-fabrication)
 - [Repository Structure](#repository-structure)
 - [Authors](#authors)
-- [Institutional Context](#institutional-context)
+- [Institutional support](#Institutional-support)
+- [Funding](#funding)
+- [License](#license)
 - [Citation](#citation)
 - [Contact](#contact)
 
@@ -469,19 +471,29 @@ Research Advisor
 
 ---
 
-### Institutional Context
+### Institutional support
 
-The project was developed as undergraduate research connecting:
+<img src="logo/logo_ufrj.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_lncc.png" width="25%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="10%"> 
 
-- **Industrial Design**
-- **Applied and Computational Mathematics**
-- **Computational Geometry**
-- **Digital Fabrication**
-- **Origami Engineering**
+---
 
-The research activities involve the **Universidade Federal do Rio de Janeiro
-(UFRJ)** and the **Laboratório Nacional de Computação Científica (LNCC)**,
-with undergraduate research support associated with **FAPERJ**.
+### Funding
+
+<img src="logo/faperj.png" width="20%">
+&nbsp;&nbsp;
+<img src="logo/cnpq.png" width="20%">
+&nbsp;&nbsp;
+<img src="logo/capes.png" width="10%">
+
+---
+
+### License
+
+**MetaOrigami** is released under the MIT license. See the LICENSE file for details.
+
+Contributions are welcome and are distributed under the same license.
+
+<img src="logo/mit_license_red.png" width="10%"> 
 
 ---
 
